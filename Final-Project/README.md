@@ -10,7 +10,7 @@ The project uses **sentence embeddings** and **unsupervised methods** to explore
 - Random sample used in analysis: **10,000 comments** 
 
 ## Repository Structure
-- `CSSM502_Final Project.docx`  
+- `CSSM502_Final Project.pdf`  
   Final written report (methods, findings, theoretical interpretation)
 
 - `cssm502_final_project.py`  
